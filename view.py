@@ -21,7 +21,7 @@ def main():
            f"elements that are different from {number} \n"
            f"3)There are {Task05.count_elements_multiple_to_number(vector,number)} elements "
            f"that are multiply to {number} \n"
-           f"5)There are {Task06.count_absolute_value_above_number(module, module_number)} elements "
+           f"4)There are {Task06.count_absolute_value_above_number(module, module_number)} elements "
            f"that above module of {number}, "
            f"{Task06.count_absolute_value_below_number(module, module_number)} elements are below "
            f"and {Task06.count_absolute_value_equal_number(module,module_number)} elements are equal")
